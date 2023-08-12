@@ -1,0 +1,6 @@
+Flask==2.3.2
+numpy==1.23.5
+opencv-python-headless
+gunicorn==20.1.0
+tensorflow
+google-cloud-aiplatform
